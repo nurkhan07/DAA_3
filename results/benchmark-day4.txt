@@ -1,0 +1,36 @@
+SMART CITY ALGORITHM BENCHMARK
+Runs per algorithm: 5
+
+Graph size: 10
+Undirected edges: 27
+Directed edges: 20
+Algorithm,Average time (ms)
+Kruskal,0,077
+Prim,0,134
+Topological Sort,0,062
+Kosaraju,0,038
+Dijkstra,0,073
+
+Graph size: 100
+Undirected edges: 296
+Directed edges: 196
+Algorithm,Average time (ms)
+Kruskal,0,428
+Prim,0,488
+Topological Sort,0,250
+Kosaraju,0,254
+Dijkstra,0,302
+
+Graph size: 1000
+Undirected edges: 2998
+Directed edges: 2035
+Algorithm,Average time (ms)
+Kruskal,3,504
+Prim,4,041
+Topological Sort,1,390
+Kosaraju,1,402
+Dijkstra,2,852
+
+Benchmark completed.
+
+Process finished with exit code 0

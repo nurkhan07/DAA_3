@@ -1,0 +1,17 @@
+
+vertices,edges,algorithm,average_time_ms
+10,27,Kruskal,0.057
+10,27,Prim,0.087
+10,20,Topological Sort,0.062
+10,20,Kosaraju,0.053
+10,20,Dijkstra,0.076
+100,296,Kruskal,0.343
+100,296,Prim,0.443
+100,196,Topological Sort,0.237
+100,196,Kosaraju,0.259
+100,196,Dijkstra,0.267
+1000,2998,Kruskal,2.546
+1000,2998,Prim,4.490
+1000,2035,Topological Sort,1.327
+1000,2035,Kosaraju,1.570
+1000,2035,Dijkstra,4.415
